@@ -1,3 +1,7 @@
+This forked project serves as a playground for me to practice testing and other stuff. The entirety of the initial project was created by me and three of my classmates. The following part is the original README:
+
+
+
 # origindigital
 
 This project uses Harmonia. Harmonia is a framework meant to serve as a foundation for every project following the React-Express-MySQL stack, as learned in Wild Code School.
